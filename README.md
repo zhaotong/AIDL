@@ -2,4 +2,4 @@
 Android IPC binder 典型代码
 
 
-![alt text](https://github.com/zhaotong/Subscribe/blob/master/image/device-2016-05-26-144900.png "截图")
+![alt text](https://github.com/zhaotong/AIDL/blob/master/app/image/device-2016-08-08-150120.png "截图")
